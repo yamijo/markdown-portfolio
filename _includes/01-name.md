@@ -1,6 +1,4 @@
-# This is the heading
+# Joshna Joshy
 
-## This is the subheading
 
-###### This is the metadata
 
