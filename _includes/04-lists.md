@@ -1,5 +1,5 @@
-1.USA
-2.Japan
-3.Australia
-  -Brisbane
-  -Sydney
+1. USA
+2. Japan
+3. Australia
+   - Brisbane
+   - Sydney
