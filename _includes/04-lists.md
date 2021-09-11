@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1.USA
+2.Japan
+3.Australia
+  -Brisbane
+  -Sydney
