@@ -1,1 +1,1 @@
-[Profile Link](https://github.com/yamijo)
+[Profile](https://github.com/yamijo)
